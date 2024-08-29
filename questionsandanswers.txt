@@ -1,0 +1,9 @@
+Melyik hős ap a következők közül?;Garen;Yasuo;Syndra;Master Yi;Syndra
+Ki adta ki a játékot?;Riot Games;Blizzard;Activision;EA Sport;Riot Games
+Mivel harcol Yasuo?;Lámpás;Mágikus bot;Pöröly;Katana;Katana
+Mit csinál a halálosság?;Varázsellenállást csökkent pontértékben;Életerőt csökkent százalékosan;Sebzést ad százalékosan;Páncélt csökkent pontértékben;Páncélt csökkent pontértékben
+Ki mondja a következőt: "Rock Solid"?;Malphite;Rammus;Ornn;Karma;Malphite
+Mit csinál Yasuo végsőképessége?;Pajzsot ad a legközelebbi szövetségesnek;Megnöveli a fizikai sebzés értékét;Gyógyítja Yasuot;50% páncéltörést ad rövid időre;50% páncéltörést ad rövid időre
+A páncél: 200. 35 halálosság és 25% páncéltörés esetén mekkora lesz a páncél?;100;115;140;114;115
+Mi Malphite Q képességének a neve?;Seismic Shard;Ground Slam;Super Scorcher Breath;Spirit Abjuration;Seismic Shard
+Melyik effekt kakukktojás?;Kábítás;Levegőbe lökés;Bekebelezés;Lassítás;Lassítás
